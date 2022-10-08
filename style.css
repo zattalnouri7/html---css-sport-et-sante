@@ -1,0 +1,21 @@
+body{display: flex;
+justify-content: center;
+padding: 20px ;
+background-color: #ffd;
+font-family: Arial, Helvetica, sans-serif;}
+.cercle{color: #ffd;
+padding: 100px;
+width: 180px;
+height: 100px;
+margin-top: 300px;
+margin-right: -15px;
+mix-blend-mode: multiply;}
+.c1{background-color: chocolate ;
+border-radius:32% 68% 70% 28% / 39% 48% 50% 56% ;}
+.c2{background-color: coral;
+    border-radius:32% 68% 70% 28% / 39% 48% 50% 56% }
+.c3{background-color: brown;
+    border-radius:32% 68% 70% 28% / 39% 48% 50% 56% }
+footer{
+font-size: large;
+align-content: center;}
